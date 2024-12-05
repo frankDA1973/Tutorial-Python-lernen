@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frankDA1973
-- 👀 I’m interested in Angular
+- 👀 I’m interested in Python and Angular
 - 🌱 I’m currently learning certain programming lanuages
 - 💞️ Python, Angular
 - 📫 E-Mail: f.brecht@mail.de
