@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frankDA1973
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning certain programming lanuages
+- 🌱 I’m currently learning Python
 - 💞️ Python
 - 📫 E-Mail: f.brecht@mail.de
 - 😄 Pronouns: ...
