@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frankDA1973
-- 👀 I’m interested in Python and Angular
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning certain programming lanuages
-- 💞️ Python, Angular
+- 💞️ Python
 - 📫 E-Mail: f.brecht@mail.de
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
